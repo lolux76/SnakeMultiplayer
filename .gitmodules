@@ -1,0 +1,12 @@
+[submodule "SnakeClient"]
+	path = SnakeClient
+	url = git@github.com:lolux76/SnakeClient.git
+[submodule "SnakeServer"]
+	path = SnakeServer
+	url = git@github.com:lolux76/SnakeServer.git
+[submodule "SnakeWeb"]
+	path = SnakeWeb
+	url = git@github.com:lolux76/SnakeWeb.git
+[submodule "SnakeDB"]
+	path = SnakeDB
+	url = git@github.com:lolux76/SnakeDB.git
